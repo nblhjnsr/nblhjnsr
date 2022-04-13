@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nblhjnsr
 - 👀 I’m interested in web development, blockchain, de-fi, nft, cryptocurrencies and more.
-- 🌱 I’m currently learning web development, Python, data analytics and some other stuff.
+- 🌱 I’m currently learning web development, data analytics and some other stuff.
 - 📫 You can reach me at nabilahjamal@gmail.com
 
 <!---
